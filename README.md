@@ -16,7 +16,7 @@ A Python-based image compression tool that offers both standard JPEG and advance
 1. Place your images in an `input_images` folder (or specify your own input folder)
 2. Run the program:
    ```bash
-   python main.py
+   main.py
    ```
 3. Follow the interactive prompts to:
    - Select input/output folders
